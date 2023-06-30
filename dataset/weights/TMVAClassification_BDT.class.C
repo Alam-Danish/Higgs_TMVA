@@ -10,7 +10,7 @@ Method         : BDT::BDT
 TMVA Release   : 4.2.1         [262657]
 ROOT Release   : 6.28/02       [400386]
 Creator        : pihd
-Date           : Fri Jun 30 20:57:36 2023
+Date           : Fri Jun 30 21:07:28 2023
 Host           : Linux danish-lenovo 5.19.0-45-generic #46~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Jun 7 15:06:04 UTC 20 x86_64 x86_64 x86_64 GNU/Linux
 Dir            : /home/pihd/Lab/Higgs_TMVA
 Training events: 30000
