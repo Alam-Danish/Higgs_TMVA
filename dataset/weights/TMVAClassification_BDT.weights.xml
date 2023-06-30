@@ -4,11 +4,11 @@
     <Info name="TMVA Release" value="4.2.1 [262657]"/>
     <Info name="ROOT Release" value="6.28/02 [400386]"/>
     <Info name="Creator" value="pihd"/>
-    <Info name="Date" value="Fri Jun 30 20:38:28 2023"/>
+    <Info name="Date" value="Fri Jun 30 20:57:36 2023"/>
     <Info name="Host" value="Linux danish-lenovo 5.19.0-45-generic #46~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Jun 7 15:06:04 UTC 20 x86_64 x86_64 x86_64 GNU/Linux"/>
     <Info name="Dir" value="/home/pihd/Lab/Higgs_TMVA"/>
     <Info name="Training events" value="30000"/>
-    <Info name="TrainingTime" value="1.97124701e+01"/>
+    <Info name="TrainingTime" value="1.97873960e+01"/>
     <Info name="AnalysisType" value="Classification"/>
   </GeneralInfo>
   <Options>

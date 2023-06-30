@@ -108,7 +108,6 @@ void training_test()
                       "!H:!V:NTrees=850:MinNodeSize=2.5%:MaxDepth=3:BoostType=AdaBoost:AdaBoostBeta=0.5:"
                        "UseBaggedBoost:BaggedSampleFraction=0.5:SeparationType=GiniIndex:nCuts=20" );
     
-    
     //training
     factory.TrainAllMethods();
 
