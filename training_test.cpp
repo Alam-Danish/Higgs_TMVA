@@ -111,6 +111,10 @@ void training_test()
     // Fisher Discriminant
     factory.BookMethod(&loader, TMVA::Types::kFisher, "Fisher",
                         "H:!V:Fisher:VarTransform=None:CreateMVAPdfs:PDFInterpolMVAPdf=Spline2:NbinsMVAPdf=50:NsmoothMVAPdf=10" );
+
+    // Multi-Layer Perceptron (Neural Network)
+    factory.BookMethod(&loader, TMVA::Types::kMLP, "MLPBNN",
+                        "!H:!V:NeuronType=tanh:VarTransform=N:NCycles=500:HiddenLayers=N+5:TestRate=5:TrainingMethod=BFGS:UseRegulator" );
     
     //training
     factory.TrainAllMethods();
