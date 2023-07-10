@@ -10,7 +10,7 @@ Method         : MLP::MLPBNN
 TMVA Release   : 4.2.1         [262657]
 ROOT Release   : 6.28/02       [400386]
 Creator        : pihd
-Date           : Sat Jul  1 02:33:06 2023
+Date           : Mon Jul 10 07:59:07 2023
 Host           : Linux danish-lenovo 5.19.0-45-generic #46~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Jun 7 15:06:04 UTC 20 x86_64 x86_64 x86_64 GNU/Linux
 Dir            : /home/pihd/Lab/Higgs_TMVA
 Training events: 30000
